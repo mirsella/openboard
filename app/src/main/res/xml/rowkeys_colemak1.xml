@@ -39,7 +39,7 @@
         latin:keyHintLabel="4"
         latin:additionalMoreKeys="4" />
     <Key
-        latin:keySpec="g"
+        latin:keySpec="b"
         latin:keyHintLabel="5"
         latin:additionalMoreKeys="5"
         latin:moreKeys="!text/morekeys_g" />
@@ -68,16 +68,16 @@
             latin:keyboardLayoutSetElement="alphabetManualShifted|alphabetShiftLockShifted"
         >
             <Key
-                latin:keySpec=":"
+                latin:keySpec='"'
                 latin:keyHintLabel="0"
                 latin:additionalMoreKeys="0" />
         </case>
         <default>
             <Key
-                latin:keySpec=";"
+                latin:keySpec="'"
                 latin:keyHintLabel="0"
                 latin:additionalMoreKeys="0"
-                latin:moreKeys=":" />
+                latin:moreKeys="'" />
         </default>
     </switch>
 </merge>

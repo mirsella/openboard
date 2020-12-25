@@ -37,12 +37,12 @@
         latin:additionalMoreKeys="&apos;"
         latin:moreKeys="!text/morekeys_c" />
     <Key
-        latin:keySpec="v"
+        latin:keySpec="d"
         latin:keyHintLabel=":"
         latin:additionalMoreKeys=":"
         latin:moreKeys="!text/morekeys_v" />
     <Key
-        latin:keySpec="b" 
+        latin:keySpec="v" 
         latin:keyHintLabel=";"
         latin:additionalMoreKeys=";" />
     <Key
@@ -51,7 +51,7 @@
         latin:additionalMoreKeys="!"
         latin:moreKeys="!text/morekeys_k" />
     <Key
-        latin:keySpec="m" 
+        latin:keySpec="h" 
         latin:keyHintLabel="\?"
         latin:additionalMoreKeys="\\?" />
 </merge>

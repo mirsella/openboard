@@ -42,12 +42,12 @@
         latin:additionalMoreKeys="%"
         latin:moreKeys="!text/morekeys_t" />
     <Key
-        latin:keySpec="d"
+        latin:keySpec="g"
         latin:keyHintLabel="&amp;"
         latin:additionalMoreKeys="&amp;"
         latin:moreKeys="!text/morekeys_d" />
     <Key
-        latin:keySpec="h"
+        latin:keySpec="m"
         latin:keyHintLabel="-"
         latin:additionalMoreKeys="-"
         latin:moreKeys="!text/morekeys_h" />
