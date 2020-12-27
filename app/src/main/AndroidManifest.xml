@@ -16,7 +16,8 @@
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
         coreApp="true"
-        package="org.dslul.openboard.inputmethod.latin">
+        package="org.dslul.openboard.inputmethod.latin"
+    >
 
     <uses-permission android:name="android.permission.READ_USER_DICTIONARY" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
@@ -47,7 +48,7 @@
             android:allowBackup="true"
             android:defaultToDeviceProtectedStorage="true"
             android:directBootAware="true"
-            android:extractNativeLibs="false">
+            android:extractNativeLibs="true">
 
         <!-- Services -->
         <service android:name="LatinIME"

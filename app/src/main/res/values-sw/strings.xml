@@ -108,7 +108,7 @@
     <string name="subtype_no_language_azerty" msgid="8144348527575640087">"Alfabeti (AZERTY)"</string>
     <string name="subtype_no_language_dvorak" msgid="1564494667584718094">"Alfabeti (Dvorak)"</string>
     <string name="subtype_no_language_colemak" msgid="5837418400010302623">"Alfabeti (Colemak)"</string>
-    <string name="subtype_no_language_colemak_dhm" msgid="5837418400010302623">"Alfabeti (ColemakDHM)"</string>
+    <string name="subtype_no_language_colemakdhm" msgid="5837418400010302624">"Alfabeti (Colemakdhm)"</string>
     <string name="subtype_no_language_pcqwerty" msgid="5354918232046200018">"Alfabeti (PC)"</string>
     <string name="subtype_emoji" msgid="7483586578074549196">"Emoji"</string>
     <string name="keyboard_theme" msgid="4909551808526178852">"Mandhari ya kibodi"</string>

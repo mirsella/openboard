@@ -24,32 +24,37 @@
 <include
   latin:keyboardLayout="@xml/key_styles_common" />
 <Row
-  latin:keyWidth="10%p"
+  latin:keyWidth="9.0%p"
   >
 <include
-  latin:keyboardLayout="@xml/rowkeys_colemak_dhm1" />
+  latin:keyboardLayout="@xml/rowkeys_colemakdhm1" />
+<Key
+  latin:keyStyle="deleteKeyStyle"
+  latin:keyWidth="fillRight" />
     </Row>
     <Row
-      latin:keyWidth="10%p"
+      latin:keyWidth="9.0%p"
       >
     <include
-      latin:keyboardLayout="@xml/rowkeys_colemak_dhm2" />
+      latin:keyboardLayout="@xml/rowkeys_colemakdhm2" />
+    <Key
+      latin:keyStyle="enterKeyStyle"
+      latin:keyWidth="fillRight" />
   </Row>
   <Row
-    latin:keyWidth="10%p"
+    latin:keyWidth="9.0%p"
     >
   <Key
     latin:keyStyle="shiftKeyStyle"
-    latin:keyWidth="15%p"
-    latin:visualInsetsRight="1%p" />
+    latin:keyWidth="10.0%p" />
   <include
-    latin:keyboardLayout="@xml/rowkeys_colemak_dhm3" />
+    latin:keyboardLayout="@xml/rowkeys_colemakdhm3" />
+  <include
+    latin:keyboardLayout="@xml/keys_exclamation_question" />
   <Key
-    latin:keyStyle="deleteKeyStyle"
-    latin:keyWidth="fillRight"
-    latin:visualInsetsLeft="1%p" />
+    latin:keyStyle="shiftKeyStyle"
+    latin:keyWidth="fillRight" />
 </Row>
 <include
   latin:keyboardLayout="@xml/row_qwerty4" />
 </merge>
-
