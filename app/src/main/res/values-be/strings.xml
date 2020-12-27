@@ -108,6 +108,7 @@
     <string name="subtype_no_language_azerty" msgid="8144348527575640087">"Лацініца (AZERTY)"</string>
     <string name="subtype_no_language_dvorak" msgid="1564494667584718094">"Лацініца (Дворак)"</string>
     <string name="subtype_no_language_colemak" msgid="5837418400010302623">"Лацініца (Colemak)"</string>
+    <string name="subtype_no_language_colemakdhm" msgid="5837418400010302624">"Лацініца (Colemakdhm)"</string>
     <string name="subtype_no_language_pcqwerty" msgid="5354918232046200018">"Лацініца (ПК)"</string>
     <string name="subtype_emoji" msgid="7483586578074549196">"Эмодзі"</string>
     <string name="keyboard_theme" msgid="4909551808526178852">"Тэма клавіятуры"</string>

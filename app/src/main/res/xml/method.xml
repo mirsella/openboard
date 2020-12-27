@@ -51,6 +51,7 @@
     fa: Persian/farsi
     fi: Finnish/nordic
     fr: French/azerty
+    fr: French/colemakdhm
     fr_CA: French (Canada)/qwerty
     fr_CH: French (Switzerland)/swiss
     gl_ES: Galician (Spain)/spanish
@@ -850,4 +851,18 @@
             android:isAsciiCapable="false"
     />
     -->
+
+
+
+      <!-- from the crash log :  -->
+      <!-- mode=keyboard nameResId=0 locale=fr extra=KeyboardLayoutSet=colemakdhm,AsciiCapable,EmojiCapable,isAdditionalSubtype -->
+
+    <subtype android:icon="@drawable/ic_ime_switcher_dark"
+      android:label="@string/subtype_generic_colemakdhm"
+      android:subtypeId="0"
+      android:imeSubtypeLocale="fr"
+      android:imeSubtypeMode="keyboard"
+      android:imeSubtypeExtraValue="KeyboardLayoutSet=colemakdhm,AsciiCapable,EmojiCapable,isAdditionalSubtype"
+      android:isAsciiCapable="true"
+      />
 </input-method>

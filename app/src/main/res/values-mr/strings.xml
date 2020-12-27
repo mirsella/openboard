@@ -108,6 +108,7 @@
     <string name="subtype_no_language_azerty" msgid="8144348527575640087">"वर्णमाला (AZERTY)"</string>
     <string name="subtype_no_language_dvorak" msgid="1564494667584718094">"वर्णमाला (ड्व्होरॅक)"</string>
     <string name="subtype_no_language_colemak" msgid="5837418400010302623">"वर्णमाला (कोलमॅक)"</string>
+    <string name="subtype_no_language_colemakdhm" msgid="5837418400010302624">"वर्णमाला (कोलमॅक)"</string>
     <string name="subtype_no_language_pcqwerty" msgid="5354918232046200018">"वर्णमाला (PC)"</string>
     <string name="subtype_emoji" msgid="7483586578074549196">"इमोजी"</string>
     <string name="keyboard_theme" msgid="4909551808526178852">"कीबोर्ड थीम"</string>
